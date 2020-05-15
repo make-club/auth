@@ -1,0 +1,18 @@
+{
+  "signin": "Sign in",
+  "signup": "Sign up",
+  "continue": "Continue",
+  "forgot_password": "Forgot your password?",
+  "invalid_email": "Email is not valid",
+  "invalid_password": "Password must have at least 8 characters",
+  "terms_and_conditions_1": "Al crear la cuenta, aceptas los",
+  "terms_and_conditions_2": "Términos y condiciones y la Política de datos.",
+  "forgot_password_text_1": "Pasa en las mejores familias",
+  "forgot_password_text_2": "¡Que no cunda el pánico!",
+  "forgot_password_text_3": "Introduce tu correo y te envíaremos un enlace para que crees una nueva.",
+  "forgot_password_confirmation": "¡Tachán! Tienes un nuevo email en tu bandeja de entrada ;)",
+  "error": "Se ha producido un error. Por favor, comprueba que tus datos sean correctos",
+  "email_placeholder": "email",
+  "send_email_placeholder": "your email",
+  "password_placeholder": "password"
+}
