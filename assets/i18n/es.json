@@ -15,7 +15,7 @@
   "forgot_password_text_2": "¡Que no cunda el pánico!",
   "forgot_password_text_3": "Introduce tu correo y te envíaremos un enlace para que crees una nueva.",
   "forgot_password_confirmation": "¡Tachán! Tienes un nuevo email en tu bandeja de entrada ;)",
-  "error": "Se ha producido un error. Por favor, comprueba que tus datos sean correctos",
+  "error": "¡Tarjeta amarilla! El mail o contraseña introducidos no son correctos. Por favor, compruébalos e inténtalo de nuevo.",
   "email_placeholder": "correo electrónico",
   "send_email_placeholder": "tu correo electrónico",
   "password_placeholder": "contraseña"
