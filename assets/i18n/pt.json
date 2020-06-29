@@ -1,0 +1,22 @@
+{
+  "signin": "Iniciar seção",
+  "signup": "Inscreva-se",
+  "continue": "Continuar",
+  "forgot_password": "Esqueceu sua senha?",
+  "invalid_email": "Email introduzido incorreto",
+  "invalid_password": "Senha precisa ter ao menos 8 caracteres",
+  "terms_and_conditions_1": "Ao criar a conta, aceite-os",
+  "terms_and_conditions_2": "Termos e condições",
+  "terms_and_conditions_2_url": "https://www.makeclub.app/terminos-y-condiciones",
+  "terms_and_conditions_2_and": "e",
+  "terms_and_conditions_3": "la Política de datos.",
+  "terms_and_conditions_3_url": "https://www.makeclub.app/pol%C3%ADtica-de-datos",
+  "forgot_password_text_1": "Passa nas melhores famílias",
+  "forgot_password_text_2": "Não entre em pânico!",
+  "forgot_password_text_3": "Digite seu email e te enviaremos um link para que crie uma nova conta.",
+  "forgot_password_confirmation": "Pronto! Tem uma nova mensagem na sua caixa de entrada ;)",
+  "error": "Cartão amarelo! Email ou senha introduzido são incorretos. Por favor, comprove e tente novamente.",
+  "email_placeholder": "Email",
+  "send_email_placeholder": "Teu email",
+  "password_placeholder": "Senha"
+}
